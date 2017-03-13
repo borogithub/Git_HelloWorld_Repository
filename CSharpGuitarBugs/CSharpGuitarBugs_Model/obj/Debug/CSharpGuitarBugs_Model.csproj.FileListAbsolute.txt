@@ -1,0 +1,5 @@
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs_Model\bin\Debug\CSharpGuitarBugs_Model.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs_Model\bin\Debug\CSharpGuitarBugs_Model.pdb
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs_Model\obj\Debug\CSharpGuitarBugs_Model.csprojResolveAssemblyReference.cache
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs_Model\obj\Debug\CSharpGuitarBugs_Model.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs_Model\obj\Debug\CSharpGuitarBugs_Model.pdb
