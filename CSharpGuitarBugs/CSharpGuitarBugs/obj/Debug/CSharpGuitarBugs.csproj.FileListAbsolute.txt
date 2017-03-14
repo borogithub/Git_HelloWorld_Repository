@@ -39,3 +39,7 @@ C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitar
 C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\obj\Debug\CSharpGuitarBugs.csprojResolveAssemblyReference.cache
 C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\obj\Debug\CSharpGuitarBugs.dll
 C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\obj\Debug\CSharpGuitarBugs.pdb
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\bin\CSharpGuitarBugs_Model.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\bin\CSharpGuitarBugs_Model.pdb
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\bin\DAL.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\CSharpGuitarBugs\bin\DAL.pdb

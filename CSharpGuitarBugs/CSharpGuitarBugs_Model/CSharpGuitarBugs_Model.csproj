@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonEnums.cs" />
     <Compile Include="Guitar.cs" />
     <Compile Include="GuitarBug.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

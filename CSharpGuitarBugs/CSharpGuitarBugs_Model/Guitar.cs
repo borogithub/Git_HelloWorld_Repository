@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace CSharpGuitarBugs_Model
 {
-    class Guitar
+    public class Guitar
     {
+        public int Id = -1;
+        public string Manufacturer = null;
+        public string ModelName = null;
+        public string ModelNumber = null;
+        public string ModelDescription = null;     
+        public TypeOfGuitar GuitarType;
+        public TypeOfString StringType;
+        public TypeOfBody BodyType;
+        public TypeOfMic MicType;
     }
 }

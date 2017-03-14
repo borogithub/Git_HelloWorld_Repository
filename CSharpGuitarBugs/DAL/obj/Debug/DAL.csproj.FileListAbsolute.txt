@@ -1,0 +1,9 @@
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\DAL.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\DAL.pdb
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\CSharpGuitarBugs_Model.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\Dapper.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\CSharpGuitarBugs_Model.pdb
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\bin\Debug\Dapper.xml
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\obj\Debug\DAL.dll
+C:\Users\Me\Source\Repos\Git_HelloWorld_Repository\CSharpGuitarBugs\DAL\obj\Debug\DAL.pdb
